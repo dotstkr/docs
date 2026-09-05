@@ -1,0 +1,194 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": ".STKR",
+  "colors": {
+    "primary": "#0F766E"
+  },
+  "navigation": {
+    "languages": [
+      {
+        "language": "en",
+        "default": true,
+        "groups": [
+          {
+            "group": "About .STKR",
+            "pages": [
+              "about-stkr",
+              "team"
+            ]
+          },
+          {
+            "group": "Stickers & purchasing",
+            "pages": [
+              "stickers",
+              "series-and-production",
+              "buying-and-eligibility"
+            ]
+          },
+          {
+            "group": "Plans & operations",
+            "pages": [
+              "points-and-rewards",
+              "collaborations",
+              "revenue-and-buybacks",
+              "roadmap"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "ko",
+        "groups": [
+          {
+            "group": ".STKR 소개",
+            "pages": [
+              "ko/about-stkr",
+              "ko/team"
+            ]
+          },
+          {
+            "group": "스티커와 구매",
+            "pages": [
+              "ko/stickers",
+              "ko/series-and-production",
+              "ko/buying-and-eligibility"
+            ]
+          },
+          {
+            "group": "계획과 운영",
+            "pages": [
+              "ko/points-and-rewards",
+              "ko/collaborations",
+              "ko/revenue-and-buybacks",
+              "ko/roadmap"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "ja",
+        "groups": [
+          {
+            "group": ".STKRについて",
+            "pages": [
+              "ja/about-stkr",
+              "ja/team"
+            ]
+          },
+          {
+            "group": "ステッカーと購入",
+            "pages": [
+              "ja/stickers",
+              "ja/series-and-production",
+              "ja/buying-and-eligibility"
+            ]
+          },
+          {
+            "group": "計画と運営",
+            "pages": [
+              "ja/points-and-rewards",
+              "ja/collaborations",
+              "ja/revenue-and-buybacks",
+              "ja/roadmap"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "zh",
+        "groups": [
+          {
+            "group": "关于 .STKR",
+            "pages": [
+              "zh/about-stkr",
+              "zh/team"
+            ]
+          },
+          {
+            "group": "贴纸与购买",
+            "pages": [
+              "zh/stickers",
+              "zh/series-and-production",
+              "zh/buying-and-eligibility"
+            ]
+          },
+          {
+            "group": "计划与运营",
+            "pages": [
+              "zh/points-and-rewards",
+              "zh/collaborations",
+              "zh/revenue-and-buybacks",
+              "zh/roadmap"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "fr",
+        "groups": [
+          {
+            "group": "À propos de .STKR",
+            "pages": [
+              "fr/about-stkr",
+              "fr/team"
+            ]
+          },
+          {
+            "group": "Stickers et achat",
+            "pages": [
+              "fr/stickers",
+              "fr/series-and-production",
+              "fr/buying-and-eligibility"
+            ]
+          },
+          {
+            "group": "Projets et fonctionnement",
+            "pages": [
+              "fr/points-and-rewards",
+              "fr/collaborations",
+              "fr/revenue-and-buybacks",
+              "fr/roadmap"
+            ]
+          }
+        ]
+      },
+      {
+        "language": "de",
+        "groups": [
+          {
+            "group": "Über .STKR",
+            "pages": [
+              "de/about-stkr",
+              "de/team"
+            ]
+          },
+          {
+            "group": "Sticker und Kauf",
+            "pages": [
+              "de/stickers",
+              "de/series-and-production",
+              "de/buying-and-eligibility"
+            ]
+          },
+          {
+            "group": "Pläne und Betrieb",
+            "pages": [
+              "de/points-and-rewards",
+              "de/collaborations",
+              "de/revenue-and-buybacks",
+              "de/roadmap"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/about-stkr"
+    }
+  ]
+}
+
